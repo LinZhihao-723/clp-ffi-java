@@ -42,6 +42,7 @@ using std::string_view;
  * @param var_wildcard_query_end_indexes_len
  * @param Java_matchResults
  */
+
 static void batch_encoded_vars_wildcard_match_native (
         JNIEnv* jni_env,
         jint num_messages,
